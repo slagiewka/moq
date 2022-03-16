@@ -1,4 +1,4 @@
-module github.com/matryer/moq/pkg/moq/testpackages
+module github.com/slagiewka/moq/pkg/moq/testpackages
 
 go 1.14
 

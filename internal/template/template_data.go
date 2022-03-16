@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/matryer/moq/internal/registry"
+	"github.com/slagiewka/moq/internal/registry"
 )
 
 // Data is the template data used to render the Moq template.
